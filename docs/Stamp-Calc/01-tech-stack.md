@@ -1,6 +1,5 @@
 ---
 title: Tech Stack
-id: tech-stack
 slug: tech-stack
 ---
 

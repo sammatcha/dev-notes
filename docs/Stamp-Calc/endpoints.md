@@ -1,6 +1,5 @@
 ---
 title: API Endpoints
-id: api-endpoints
 slug: api-endpoints
 ---
 

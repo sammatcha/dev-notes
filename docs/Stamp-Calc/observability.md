@@ -1,6 +1,5 @@
 ---
 title: Observability
-id: observability
 slug: observability
 ---
 

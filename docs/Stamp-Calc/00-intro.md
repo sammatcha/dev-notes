@@ -1,6 +1,5 @@
 ---
 title: Intro
-id: intro
 slug: intro
 ---
 

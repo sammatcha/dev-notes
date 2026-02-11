@@ -1,6 +1,5 @@
 ---
 title: Architecture
-id: architecture
 slug: architecture
 ---
 
