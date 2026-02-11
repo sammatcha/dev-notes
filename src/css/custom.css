@@ -28,3 +28,27 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.navbar__title {
+  font-size: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar__title::before {
+  content: 'Dev';
+  font-size: 1.5rem;
+}
+
+.navbar__title::after {
+  content: 'docs';
+  display: inline-block;
+  border-radius: 20px;
+  background-color: rgb(54, 100, 181);
+  padding: 4px 10px;
+  font-size: 1.0rem;
+  color: white;
+  margin-left: 5px;
+
+}
