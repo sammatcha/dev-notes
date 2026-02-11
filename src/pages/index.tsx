@@ -5,7 +5,7 @@ export default function Home(): null {
   const history = useHistory();
   
   useEffect(() => {
-    history.replace(process.env.NODE_ENV === 'production' ? '/dev-notes/docs' : '/docs/');
+    history.replace('/docs/');
   }, [history]);
   
   return null;
