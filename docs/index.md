@@ -8,4 +8,4 @@ Documentation for my projects
 
 ## Projects
 
-- [Stamp Calc](./stamp-calc/intro)
+- [Stamp Calc](./stamp-calc/intro.md)
