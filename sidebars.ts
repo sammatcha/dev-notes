@@ -26,7 +26,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Stamp-Calc',
       collapsible: true,
-      collapsed: false,
+      collapsed: true,
       items: 
       [
         'stamp-calc/intro',
