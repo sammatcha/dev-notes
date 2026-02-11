@@ -1,6 +1,5 @@
 ---
-name: Intro
-id: Intro
+title: Intro
 ---
 
 ## Overview

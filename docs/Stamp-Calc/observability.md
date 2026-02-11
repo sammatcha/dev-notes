@@ -1,6 +1,5 @@
 ---
-name: Observability
-id: Observability
+title: Observability
 ---
 
 ### Overview

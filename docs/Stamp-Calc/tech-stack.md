@@ -1,6 +1,5 @@
 ---
-name: Tech Stack
-id: Tech Stack
+title: Tech Stack
 ---
 
 

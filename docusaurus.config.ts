@@ -18,14 +18,14 @@ const config: Config = {
   url: 'https://sammatcha.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: process.env.NODE_ENV === 'production' ? '/dev-notes/docs' : '/',
+  baseUrl: '/dev-notes/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'mydocs', // Usually your GitHub org/user name.
-  projectName: 'dev-docs', // Usually your repo name.
+  organizationName: 'sammatcha', // Usually your GitHub org/user name.
+  projectName: 'dev-notes', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -40,6 +40,7 @@ const config: Config = {
       'classic',
       {
         docs: {
+          routeBasePath: '/',
           sidebarPath: './sidebars.ts',
           // Remove this to remove the "edit this page" links.
         },
@@ -102,7 +103,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs',
+              to: '/',
             },
           ],
         },
