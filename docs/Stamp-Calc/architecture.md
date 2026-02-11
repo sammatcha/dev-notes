@@ -1,6 +1,7 @@
 ---
-name: Architecture
-id: Architecture
+title: Architecture
+id: architecture
+slug: architecture
 ---
 
 ```mermaid

@@ -1,6 +1,7 @@
 ---
-name: API Endpoints
-id: API Endpoints
+title: API Endpoints
+id: api-endpoints
+slug: api-endpoints
 ---
 
 #### POST `/api/postage`

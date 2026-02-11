@@ -1,6 +1,7 @@
 ---
-name: Tech Stack
-id: Tech Stack
+title: Tech Stack
+id: tech-stack
+slug: tech-stack
 ---
 
 

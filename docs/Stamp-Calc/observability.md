@@ -1,6 +1,7 @@
 ---
-name: Observability
-id: Observability
+title: Observability
+id: observability
+slug: observability
 ---
 
 ### Overview
