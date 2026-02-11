@@ -1,6 +1,5 @@
 ---
 title: Intro
-slug: intro
 ---
 
 ## Overview

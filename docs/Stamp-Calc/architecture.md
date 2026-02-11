@@ -1,6 +1,5 @@
 ---
 title: Architecture
-slug: architecture
 ---
 
 ```mermaid

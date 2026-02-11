@@ -1,5 +1,4 @@
 ---
-slug: /
 pagination_next: null
 ---
 

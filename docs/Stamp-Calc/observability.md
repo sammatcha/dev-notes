@@ -1,6 +1,5 @@
 ---
 title: Observability
-slug: observability
 ---
 
 ### Overview

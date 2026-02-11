@@ -1,6 +1,5 @@
 ---
 title: API Endpoints
-slug: api-endpoints
 ---
 
 #### POST `/api/postage`
