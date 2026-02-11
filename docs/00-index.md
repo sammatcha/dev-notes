@@ -9,4 +9,4 @@ Documentation for my projects
 
 ## Projects
 
-- [Stamp Calc](./stamp-calc/00-intro)
+- [Stamp Calc](/stamp-calc/intro)
