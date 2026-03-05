@@ -24,7 +24,7 @@ const sidebars: SidebarsConfig = {
     'index',
     {
       type: 'category',
-      label: 'Stamp-Calc',
+      label: 'Stamp Calc',
       collapsible: true,
       collapsed: true,
       items: 
@@ -36,6 +36,21 @@ const sidebars: SidebarsConfig = {
         'stamp-calc/observability',
       ],
     },
+    {
+      type: 'category',
+      label: 'URL Shortener',
+      collapsible: true,
+      collapsed: true,
+      items: 
+      [
+        'url-shortener/intro',
+        'url-shortener/tech-stack',
+        'url-shortener/architecture',
+        'url-shortener/api-reference',
+        'url-shortener/data-model',
+        'url-shortener/short-code',
+      ],
+    }
   ],
    
 };
